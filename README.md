@@ -1,5 +1,10 @@
 # Go TCP Chat Server
 
+## Build
+
+- build the app with `go build .`
+- run the server with `./tcp-chat`
+
 ## Usage
 Once the user connects to the chat server using `telnet` command line program, they can use the following commands to talk to the server:
 
